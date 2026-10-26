@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="16" height="16" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="icon_email_16" transform="translate(0 0)" clip-path="url(#clip-path)">
+    <g id="Layer_5" transform="translate(1077.306 -113.543)">
+      <g id="Group_5214">
+        <path id="Path_5300" d="M-1069.306,124.443l-8-7.9v10.6l.4.4h15.4l.2-.4v-10.6Z" fill="#181818"/>
+        <path id="Path_5301" d="M-1062.306,115.543h-13.9l6.9,7Z" fill="#181818"/>
+      </g>
+    </g>
+    <rect id="Rectangle_5800" width="16" height="16" fill="none"/>
+  </g>
+</svg>

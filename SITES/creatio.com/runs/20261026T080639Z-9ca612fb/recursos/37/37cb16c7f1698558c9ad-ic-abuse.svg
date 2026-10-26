@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="227" height="227">
+  <circle data-name="Ellipse 1578" cx="113" cy="113" r="113" transform="translate(.5 .5)" fill="none" stroke="#fff" stroke-miterlimit="10"/>
+  <path data-name="Path 6404" d="M99.59 107.348v-58.16a10.186 10.186 0 0 1 10.186-10.186h0a10.186 10.186 0 0 1 10.185 10.186v58.16" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path data-name="Path 6405" d="M79.134 117.563V68.999A10.186 10.186 0 0 1 89.32 58.813h0a10.186 10.186 0 0 1 10.185 10.186" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path data-name="Path 6406" d="M120.046 61.326a10.186 10.186 0 0 1 10.186-10.186h0a10.186 10.186 0 0 1 10.185 10.186v45.377" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path data-name="Path 6407" d="M140.554 89.456a10.186 10.186 0 0 1 10.185-10.186h0a10.186 10.186 0 0 1 10.186 10.186v51.76a42.644 42.644 0 0 1-9.592 23.665c-12.834 15.177-33.851 14.8-38.349 14.684-4.125-.1-23.767-1.256-38.349-16.6-2.869-3.039-6.4-5.755-10.186-15.992S54.263 108.13 54.263 108.13a10.186 10.186 0 0 1 7.334-12.477h0a10.186 10.186 0 0 1 12.457 7.333l7.639 22.29s10.186-.289 17.893 5.3 11.51 15.8 11.51 15.8" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path data-name="Path 6408" d="m140.554 77.47 32.526-32.543a90.789 90.789 0 0 0-128.1 128.1l21.389-21.439" fill="none" stroke="#fff" stroke-miterlimit="10"/>
+  <path data-name="Path 6409" d="m80.068 169.108-18.674 18.674A90.806 90.806 0 0 0 187.85 61.326l-26.926 26.975" fill="none" stroke="#fff" stroke-miterlimit="10"/>
+</svg>

@@ -1,0 +1,98 @@
+[
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/contacts/01-contact-us-people-2@1x.png.webp",
+    "path": "recursos/d2/d2fbd6267a1460280548-01-contact-us-people-2_1x.png.webp",
+    "bytes": 29090,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/contacts/01-contact-us-people-2@2x.png.webp",
+    "path": "recursos/c7/c7054d94e9ab91e42046-01-contact-us-people-2_2x.png.webp",
+    "bytes": 74674,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/page/libraries/jquery.intl-tel-input/build/img/flags.png",
+    "path": "recursos/31/312596e6e1a0f22a35a7-flags.png",
+    "bytes": 70857,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/page/libraries/jquery.intl-tel-input/build/img/flags%402x.png",
+    "path": "recursos/75/75ec7c52233a7f7bd403-flags_2x.png",
+    "bytes": 174369,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/rld/v2/get-demo-screen_upd_1x.png.webp",
+    "path": "recursos/1f/1f4fdad1d10aa1540806-get-demo-screen_upd_1x.png.webp",
+    "bytes": 81560,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/rld/v2/get-demo-screen_upd_2x.png.webp",
+    "path": "recursos/93/93c7be8caa323bccfdad-get-demo-screen_upd_2x.png.webp",
+    "bytes": 191924,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/rld/v2/get-demo-twin@1x.png.webp",
+    "path": "recursos/3a/3ae8d22035696cd4d406-get-demo-twin_1x.png.webp",
+    "bytes": 164534,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/rld/v2/get-demo-twin@2x.png.webp",
+    "path": "recursos/c4/c49c3040c1fae4668442-get-demo-twin_2x.png.webp",
+    "bytes": 503206,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/rld/v2/get-demo-twin@1x.png.webp",
+    "path": "recursos/ca/ca3ecd0d66fc7f6b5dc6-get-demo-twin_1x.png.webp",
+    "bytes": 215968,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/rld/v2/get-demo-twin@2x.png.webp",
+    "path": "recursos/30/30b74a27bc7b9fc2fee5-get-demo-twin_2x.png.webp",
+    "bytes": 644522,
+    "property_url": null
+  },
+  {
+    "url": "https://storage.creatio.com/en/s3fs-public/styles/news_full/public/news/2024-02/960x502_Forrester%20%E2%80%93%201_1.png.webp?itok=C8J6K6VO",
+    "path": "recursos/54/54450f143da4220d279f-960x502_Forrester___1_1.png.webp",
+    "bytes": 274328,
+    "property_url": null
+  },
+  {
+    "url": "https://storage.creatio.com/ln/s3fs-public/landing/gartner-mq-for-marketing-automation-platforms-2026/blue-background_top.jpg",
+    "path": "recursos/c8/c80856d0c71cd04eee53-blue-background_top.jpg",
+    "bytes": 23423,
+    "property_url": null
+  },
+  {
+    "url": "https://storage.creatio.com/ln/s3fs-public/landing/gartner-mq-for-marketing-automation-platforms-2026/blue-background_top-2x.jpg",
+    "path": "recursos/a8/a8577752dc2fee3cb599-blue-background_top-2x.jpg",
+    "bytes": 66996,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/page/themes/custom/creatio/img/icons/lang/sprite_lang.png",
+    "path": "recursos/71/719aec1d22e27f1f7917-sprite_lang.png",
+    "bytes": 3946,
+    "property_url": null
+  },
+  {
+    "url": "https://storage.creatio.com/en/s3fs-public/styles/news_full/public/news/2026-10/960x502_gartner-mq-map-1.png.webp?itok=CgoNzhfs",
+    "path": "recursos/ae/ae3cd93b2b66646fd8ff-960x502_gartner-mq-map-1.png.webp",
+    "bytes": 40378,
+    "property_url": null
+  },
+  {
+    "url": "https://storage.creatio.com/en/s3fs-public/styles/news_full/public/news/2026-09/960kh502_gartner_crm_sales-2x_0.png.webp?itok=eSoN1fW2",
+    "path": "recursos/3a/3ad32a52d8fa01db74fb-960kh502_gartner_crm_sales-2x_0.png.webp",
+    "bytes": 33430,
+    "property_url": null
+  }
+]

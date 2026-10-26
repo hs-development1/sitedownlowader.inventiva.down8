@@ -1,0 +1,550 @@
+{
+  "sitio": "https://creatio.com/",
+  "fecha": "2026-10-26T08:26:03.763353+00:00",
+  "paginas": [
+    "https://www.creatio.com/company/careers",
+    "https://www.creatio.com/company/contacts",
+    "https://www.creatio.com/page/the-state-of-enterprise-ai-adoption?utm_source=nav-menu&activity=dropdown_banner",
+    "https://www.creatio.com/company/feedback/request-live-demo",
+    "https://www.creatio.com/page/2024-forrester-wave-low-code-platforms",
+    "https://www.creatio.com/page/gartner-mq-for-marketing-automation-platforms-2026",
+    "https://www.creatio.com/company/news/25037",
+    "https://www.creatio.com/company/news/24955",
+    "https://www.creatio.com/company/news/24334",
+    "https://www.creatio.com/company/news/24090"
+  ],
+  "paginas_guardadas": 10,
+  "recursos_descargados": 80,
+  "fotografias_descargadas": 41,
+  "bytes_fotografias": 2612945,
+  "recursos_pendientes": 116,
+  "presupuesto_recursos_bytes": 110100480,
+  "recursos_bytes": 4477048,
+  "maximo_paginas": 10,
+  "paginas_pendientes": 0,
+  "fichas_inmobiliarias": 0,
+  "limite_alcanzado": false,
+  "modo_navegador": false,
+  "advertencia_navegador": "",
+  "recursos": [
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_Ub97F6CArqx4yHnFpHCy8lHs27oO87pMAaPdmW9YX_0.css?delta=1&language=en&theme=creatio&include=eJxlj1EOgzAMQy9E6ZFQGjyoliao6T7Y6dcNxKTtL3asZ5mF3PeYyDHwcRe40wIf2CoiW9lMoc1HrqCWLYQCfYREqqhHSK0WkvzsjCMTk1nzVmm7HKYKVL80BJ3TAnFHzNn09_ONLmKJ5JIraH43nzLrrdd3w40zyVQwZ5ok693jvzW2tdMH372hfHa_ANaHZGA",
+      "archivo": "recursos/45/45b76d78cae66e916b00-css_Ub97F6CArqx4yHnFpHCy8lHs27oO87pMAaPdmW9YX_0.css"
+    },
+    {
+      "url": "https://www.creatio.com/themes/custom/creatio/img/icons/checked.svg",
+      "archivo": "recursos/48/483f754f95b10c59524c-checked.svg"
+    },
+    {
+      "url": "https://www.creatio.com/themes/custom/creatio/img/icons/ic-form-file.svg",
+      "archivo": "recursos/da/da891926a261bb616db7-ic-form-file.svg"
+    },
+    {
+      "url": "https://www.creatio.com/themes/custom/creatio/img/icons/ic-form-file-delete.svg",
+      "archivo": "recursos/4a/4a06d5e46b3401205f36-ic-form-file-delete.svg"
+    },
+    {
+      "url": "https://www.creatio.com/themes/custom/creatio/img/icons/ic-close.svg",
+      "archivo": "recursos/50/50a7dacb6911f8afbd21-ic-close.svg"
+    },
+    {
+      "url": "https://www.creatio.com/themes/custom/creatio/img/icons/ic-close-modal.svg",
+      "archivo": "recursos/76/765bf3375b9ab668037e-ic-close-modal.svg"
+    },
+    {
+      "url": "https://www.creatio.com/themes/custom/creatio/img/icons/hr/ic-search.svg",
+      "archivo": "recursos/92/92d395b8b7755aee9ede-ic-search.svg"
+    },
+    {
+      "url": "https://www.creatio.com/themes/custom/creatio/img/icons/hr/ic-hot.svg",
+      "archivo": "recursos/a2/a24e4a4da39455e347eb-ic-hot.svg"
+    },
+    {
+      "url": "https://www.creatio.com/themes/custom/creatio/img/icons/hr/ic-arr.svg",
+      "archivo": "recursos/c0/c08b9899744153db509c-ic-arr.svg"
+    },
+    {
+      "url": "https://www.creatio.com/themes/custom/creatio/img/icons/hr/ic-location.svg",
+      "archivo": "recursos/84/84c2d7d3b2df5b6a9efd-ic-location.svg"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_eWZVh7HMFhmIC9zuwtnNYBIDN4Bqi9ovSw09icTYaH8.css?delta=2&language=en&theme=creatio&include=eJxlj1EOgzAMQy9E6ZFQGjyoliao6T7Y6dcNxKTtL3asZ5mF3PeYyDHwcRe40wIf2CoiW9lMoc1HrqCWLYQCfYREqqhHSK0WkvzsjCMTk1nzVmm7HKYKVL80BJ3TAnFHzNn09_ONLmKJ5JIraH43nzLrrdd3w40zyVQwZ5ok693jvzW2tdMH372hfHa_ANaHZGA",
+      "archivo": "recursos/bf/bf4dc4b685ad92015cc2-css_eWZVh7HMFhmIC9zuwtnNYBIDN4Bqi9ovSw09icTYaH8.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_bH1CS_rQy_8LC-D0DWfVHdt0cUxVdukeafcrRnOc5Xc.css?delta=1&language=en&theme=creatio&include=eJxlkUuSwyAMRC9kw5FSAvc4JAK5kFKTzOmDjccbNkA_tT5AZFL9-ECKKfZzhiqt0ClKhY-SNykopi5WkCWZ54zymgOVgtpNS31txM7wNmqmuULTH3qsSM3Eh-z5PoiYWqXtIlGKUTS9ABh573mBlSUQX_IOWvbmp0zlp3VpQCUm4lvGkujGqTzVj8jZvVWf9KOG3K_-i7BX8Ofu6EHvAZ5DuQVGiVsZWVcec_9t5zsO8X0Z4DGS6z_wBb5FnJo",
+      "archivo": "recursos/11/1143799ed6fcdd71c387-css_bH1CS_rQy_8LC-D0DWfVHdt0cUxVdukeafcrRnOc5Xc.css"
+    },
+    {
+      "url": "https://www.creatio.com/themes/custom/creatio/img/contacts/ic-address-black.svg",
+      "archivo": "recursos/e7/e71b39b012b3079ef1b2-ic-address-black.svg"
+    },
+    {
+      "url": "https://www.creatio.com/themes/custom/creatio/img/contacts/ic-phone-black.svg",
+      "archivo": "recursos/1f/1f3dfed5e3539d472eee-ic-phone-black.svg"
+    },
+    {
+      "url": "https://www.creatio.com/themes/custom/creatio/img/contacts/ic-email-black.svg",
+      "archivo": "recursos/40/4066f4a0544532bbd4d6-ic-email-black.svg"
+    },
+    {
+      "url": "https://www.creatio.com/themes/custom/creatio/img/contacts/ic-abuse.svg",
+      "archivo": "recursos/37/37cb16c7f1698558c9ad-ic-abuse.svg"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_Sj7QJTvBDE-LOqBeQeFOhRjKFe-F5j41I9Zosbsjj1M.css?delta=2&language=en&theme=creatio&include=eJxlkUuSwyAMRC9kw5FSAvc4JAK5kFKTzOmDjccbNkA_tT5AZFL9-ECKKfZzhiqt0ClKhY-SNykopi5WkCWZ54zymgOVgtpNS31txM7wNmqmuULTH3qsSM3Eh-z5PoiYWqXtIlGKUTS9ABh573mBlSUQX_IOWvbmp0zlp3VpQCUm4lvGkujGqTzVj8jZvVWf9KOG3K_-i7BX8Ofu6EHvAZ5DuQVGiVsZWVcec_9t5zsO8X0Z4DGS6z_wBb5FnJo",
+      "archivo": "recursos/88/88fd06041d203302887b-css_Sj7QJTvBDE-LOqBeQeFOhRjKFe-F5j41I9Zosbsjj1M.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_1QFOKmjk1JuPEp0byMx3PN_KnalOyjlsfPAYIy8Z2fY.css?delta=4&language=en&theme=creatio&include=eJxlkUuSwyAMRC9kw5FSAvc4JAK5kFKTzOmDjccbNkA_tT5AZFL9-ECKKfZzhiqt0ClKhY-SNykopi5WkCWZ54zymgOVgtpNS31txM7wNmqmuULTH3qsSM3Eh-z5PoiYWqXtIlGKUTS9ABh573mBlSUQX_IOWvbmp0zlp3VpQCUm4lvGkujGqTzVj8jZvVWf9KOG3K_-i7BX8Ofu6EHvAZ5DuQVGiVsZWVcec_9t5zsO8X0Z4DGS6z_wBb5FnJo",
+      "archivo": "recursos/f5/f51ef831edf0f6876152-css_1QFOKmjk1JuPEp0byMx3PN_KnalOyjlsfPAYIy8Z2fY.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_H9N9wWY7jahw2rM-3ZA3N9JApdWin1DAATxROQ4saX8.css?delta=5&language=en&theme=creatio&include=eJxlkUuSwyAMRC9kw5FSAvc4JAK5kFKTzOmDjccbNkA_tT5AZFL9-ECKKfZzhiqt0ClKhY-SNykopi5WkCWZ54zymgOVgtpNS31txM7wNmqmuULTH3qsSM3Eh-z5PoiYWqXtIlGKUTS9ABh573mBlSUQX_IOWvbmp0zlp3VpQCUm4lvGkujGqTzVj8jZvVWf9KOG3K_-i7BX8Ofu6EHvAZ5DuQVGiVsZWVcec_9t5zsO8X0Z4DGS6z_wBb5FnJo",
+      "archivo": "recursos/d3/d30f3f2053a989ff7efb-css_H9N9wWY7jahw2rM-3ZA3N9JApdWin1DAATxROQ4saX8.css"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/contacts/01-contact-us-people-2@1x.png.webp",
+      "archivo": "recursos/d2/d2fbd6267a1460280548-01-contact-us-people-2_1x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/contacts/01-contact-us-people-2@2x.png.webp",
+      "archivo": "recursos/c7/c7054d94e9ab91e42046-01-contact-us-people-2_2x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/page/libraries/jquery.intl-tel-input/build/img/flags.png",
+      "archivo": "recursos/31/312596e6e1a0f22a35a7-flags.png"
+    },
+    {
+      "url": "https://www.creatio.com/page/libraries/jquery.intl-tel-input/build/img/flags%402x.png",
+      "archivo": "recursos/75/75ec7c52233a7f7bd403-flags_2x.png"
+    },
+    {
+      "url": "https://www.creatio.com/page/sites/landings/files/css/css_1V5OrQle-P0LgVKaz7_jIs7FSJqo9o7NmPWoukmuVxs.css?delta=0&language=en&theme=creatio_landings&include=eJx9j1FuxCAMRC8UQNoLRQ5MslSAEXa7SU9fUmXVD7b7A3jeeLA9N7jQPislq9iVGsg0SPzG5E9WuGVKv2VHGtnpUfFoUdGe0pyohFg2cZ5z5YKiZu1989ftneUOCq9CkJA7F3uR0bEyv_w-Fk2zIo0kYSN_zCsVfyy8T3KIIruFBJPK0-f-nlbvMKKkMLyaPg5abVFgKBoKXHt6mR5Yzj3ddVv6oH0Qr3VsgFJMYpW3LeFfW4YIbSM_j0HsQ2ZYn0jk-AG7SbNV",
+      "archivo": "recursos/67/672dadfa21f250cd0067-css_1V5OrQle-P0LgVKaz7_jIs7FSJqo9o7NmPWoukmuVxs.css"
+    },
+    {
+      "url": "https://www.creatio.com/page/themes/custom/creatio/img/icons/ic-checkbox-black.svg",
+      "archivo": "recursos/cc/cc2ec75db76d7c0def94-ic-checkbox-black.svg"
+    },
+    {
+      "url": "https://www.creatio.com/page/themes/custom/creatio/img/icons/ic-dd-selected.svg",
+      "archivo": "recursos/b0/b063a358455af6c6736e-ic-dd-selected.svg"
+    },
+    {
+      "url": "https://www.creatio.com/page/themes/custom/creatio/img/icons/ic-checkbox.svg",
+      "archivo": "recursos/50/502fde8ed196b1304718-ic-checkbox.svg"
+    },
+    {
+      "url": "https://www.creatio.com/page/themes/custom/creatio/img/icons/ic-phone-dark.svg",
+      "archivo": "recursos/66/66822132daa842e5757f-ic-phone-dark.svg"
+    },
+    {
+      "url": "https://www.creatio.com/page/themes/custom/creatio/img/icons/ic-email-dark.svg",
+      "archivo": "recursos/e1/e1b1386107f7ca66602f-ic-email-dark.svg"
+    },
+    {
+      "url": "https://www.creatio.com/page/themes/custom/creatio/img/icons/ic-fb.svg",
+      "archivo": "recursos/d5/d5cb0033ad65b2aad6fb-ic-fb.svg"
+    },
+    {
+      "url": "https://www.creatio.com/page/themes/custom/creatio/img/icons/ic-in.svg",
+      "archivo": "recursos/1d/1d3231927c20db833b5b-ic-in.svg"
+    },
+    {
+      "url": "https://www.creatio.com/page/sites/landings/files/css/css_hdGYNw58hnfhY1KhWb4K_vUiI53EXmwyKXsj6y4nJEM.css?delta=1&language=en&theme=creatio_landings&include=eJx9j1FuxCAMRC8UQNoLRQ5MslSAEXa7SU9fUmXVD7b7A3jeeLA9N7jQPislq9iVGsg0SPzG5E9WuGVKv2VHGtnpUfFoUdGe0pyohFg2cZ5z5YKiZu1989ftneUOCq9CkJA7F3uR0bEyv_w-Fk2zIo0kYSN_zCsVfyy8T3KIIruFBJPK0-f-nlbvMKKkMLyaPg5abVFgKBoKXHt6mR5Yzj3ddVv6oH0Qr3VsgFJMYpW3LeFfW4YIbSM_j0HsQ2ZYn0jk-AG7SbNV",
+      "archivo": "recursos/1c/1cd220bb73c8a841e6a3-css_hdGYNw58hnfhY1KhWb4K_vUiI53EXmwyKXsj6y4nJEM.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_XMKfDosDtuGc900RfvE6hONxn3yoRFIa8T7ukhC5NEc.css?delta=1&language=en&theme=creatio&include=eJxlUdFuxCAM-6EC0n6oCpD1sgVSkdx2t68fPbpqEi-AHceOQmJQfYYIiksa74KqsKEuSRqGJGWXitXUp4ZgJM4VrHcXoVZsQ5TbfQf2hg-DLnINlX5w1Kq0AvyCoz9EEVNrsK-F6sUiY_c1l5iOtIvfWCLwBW8I-Yg9IdX37v-PaJz919uikgh4LZgJVqb6qWGmvN165qJPNSxjB98YD8Nw3h4-4DGR56g-owFxt5Ft47n3T3YudKofx0S-RvLjK34B9MSfog",
+      "archivo": "recursos/db/db2da16046bc27e2365e-css_XMKfDosDtuGc900RfvE6hONxn3yoRFIa8T7ukhC5NEc.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_mg0XT3kH8Bx2FrpcsPo9GxN-KnxxwZvQYdYCuLVOLso.css?delta=2&language=en&theme=creatio&include=eJxlUdFuxCAM-6EC0n6oCpD1sgVSkdx2t68fPbpqEi-AHceOQmJQfYYIiksa74KqsKEuSRqGJGWXitXUp4ZgJM4VrHcXoVZsQ5TbfQf2hg-DLnINlX5w1Kq0AvyCoz9EEVNrsK-F6sUiY_c1l5iOtIvfWCLwBW8I-Yg9IdX37v-PaJz919uikgh4LZgJVqb6qWGmvN165qJPNSxjB98YD8Nw3h4-4DGR56g-owFxt5Ft47n3T3YudKofx0S-RvLjK34B9MSfog",
+      "archivo": "recursos/bf/bf8398e33270a8bf02ca-css_mg0XT3kH8Bx2FrpcsPo9GxN-KnxxwZvQYdYCuLVOLso.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_SWg8YRjLbmRt-U4NJuXL0usVG1sgjga5GJ0ukGV7UHo.css?delta=4&language=en&theme=creatio&include=eJxlUdFuxCAM-6EC0n6oCpD1sgVSkdx2t68fPbpqEi-AHceOQmJQfYYIiksa74KqsKEuSRqGJGWXitXUp4ZgJM4VrHcXoVZsQ5TbfQf2hg-DLnINlX5w1Kq0AvyCoz9EEVNrsK-F6sUiY_c1l5iOtIvfWCLwBW8I-Yg9IdX37v-PaJz919uikgh4LZgJVqb6qWGmvN165qJPNSxjB98YD8Nw3h4-4DGR56g-owFxt5Ft47n3T3YudKofx0S-RvLjK34B9MSfog",
+      "archivo": "recursos/c6/c68ac99bf2386dce6400-css_SWg8YRjLbmRt-U4NJuXL0usVG1sgjga5GJ0ukGV7UHo.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_H9N9wWY7jahw2rM-3ZA3N9JApdWin1DAATxROQ4saX8.css?delta=5&language=en&theme=creatio&include=eJxlUdFuxCAM-6EC0n6oCpD1sgVSkdx2t68fPbpqEi-AHceOQmJQfYYIiksa74KqsKEuSRqGJGWXitXUp4ZgJM4VrHcXoVZsQ5TbfQf2hg-DLnINlX5w1Kq0AvyCoz9EEVNrsK-F6sUiY_c1l5iOtIvfWCLwBW8I-Yg9IdX37v-PaJz919uikgh4LZgJVqb6qWGmvN165qJPNSxjB98YD8Nw3h4-4DGR56g-owFxt5Ft47n3T3YudKofx0S-RvLjK34B9MSfog",
+      "archivo": "recursos/d3/d30f3f2053a989ff7efb-css_H9N9wWY7jahw2rM-3ZA3N9JApdWin1DAATxROQ4saX8.css"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/rld/v2/get-demo-screen_upd_1x.png.webp",
+      "archivo": "recursos/1f/1f4fdad1d10aa1540806-get-demo-screen_upd_1x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/rld/v2/get-demo-screen_upd_2x.png.webp",
+      "archivo": "recursos/93/93c7be8caa323bccfdad-get-demo-screen_upd_2x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/rld/v2/get-demo-twin@1x.png.webp",
+      "archivo": "recursos/3a/3ae8d22035696cd4d406-get-demo-twin_1x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/rld/v2/get-demo-twin@2x.png.webp",
+      "archivo": "recursos/c4/c49c3040c1fae4668442-get-demo-twin_2x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/rld/v2/get-demo-twin@1x.png.webp",
+      "archivo": "recursos/ca/ca3ecd0d66fc7f6b5dc6-get-demo-twin_1x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/rld/v2/get-demo-twin@2x.png.webp",
+      "archivo": "recursos/30/30b74a27bc7b9fc2fee5-get-demo-twin_2x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/core/assets/vendor/once/once.min.js?v=1.0.1",
+      "archivo": "recursos/9e/9e541d7ae71b7cf8aade-once.min.js"
+    },
+    {
+      "url": "https://storage.creatio.com/en/s3fs-public/styles/news_full/public/news/2024-02/960x502_Forrester%20%E2%80%93%201_1.png.webp?itok=C8J6K6VO",
+      "archivo": "recursos/54/54450f143da4220d279f-960x502_Forrester___1_1.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/core/misc/drupalSettingsLoader.js?v=11.4.8",
+      "archivo": "recursos/ce/cee522e13a4fe9b44de3-drupalSettingsLoader.js"
+    },
+    {
+      "url": "https://www.creatio.com/core/misc/drupal.js?v=11.4.8",
+      "archivo": "recursos/3d/3d39d7c93234a092e640-drupal.js"
+    },
+    {
+      "url": "https://www.creatio.com/core/misc/drupal.init.js?v=11.4.8",
+      "archivo": "recursos/c3/c3cf2d1075bb538d020f-drupal.init.js"
+    },
+    {
+      "url": "https://libraries.creatio.com/ts_country/index.js?v=1.1",
+      "archivo": "recursos/56/563de8f7f95211f3607a-index.js"
+    },
+    {
+      "url": "https://www.creatio.com/core/assets/vendor/tabbable/index.umd.min.js?v=6.3.0",
+      "archivo": "recursos/5d/5d6686efe6308cd1294d-index.umd.min.js"
+    },
+    {
+      "url": "https://www.creatio.com/modules/custom/ts_form_autofill/js/form_autofill.js?v=1.4.1",
+      "archivo": "recursos/4a/4aeffc8636fa831f90ea-form_autofill.js"
+    },
+    {
+      "url": "https://www.creatio.com/modules/custom/ts_form_autofill/js/form_tracking.js?v=1.4.1",
+      "archivo": "recursos/d5/d580f16eac9119e0619e-form_tracking.js"
+    },
+    {
+      "url": "https://www.creatio.com/themes/custom/creatio/components/menu-banner/menu-banner.js?tndbgq",
+      "archivo": "recursos/7a/7af9fe2c6a6de4ce21e8-menu-banner.js"
+    },
+    {
+      "url": "https://www.creatio.com/libraries/jquery-cookie/jquery.cookie.js?v=1",
+      "archivo": "recursos/cc/ccf02686f80c1b305f29-jquery.cookie.js"
+    },
+    {
+      "url": "https://storage.creatio.com/ln/s3fs-public/landing/gartner-mq-for-marketing-automation-platforms-2026/blue-background_top.jpg",
+      "archivo": "recursos/c8/c80856d0c71cd04eee53-blue-background_top.jpg"
+    },
+    {
+      "url": "https://storage.creatio.com/ln/s3fs-public/landing/gartner-mq-for-marketing-automation-platforms-2026/blue-background_top-2x.jpg",
+      "archivo": "recursos/a8/a8577752dc2fee3cb599-blue-background_top-2x.jpg"
+    },
+    {
+      "url": "https://www.creatio.com/page/sites/landings/files/css/css_CfN2RrVYzueh68yqPuvao7LHHD5C_BsXb-4lbdFOFY0.css?delta=0&language=en&theme=creatio_landings&include=eJx9j8FSxSAMRX-ogNOFv9NJ6S2vGqCSPG3f1wtOHReoG0JyTjJzfS5wS7nvxFZxKBWQKZDtgcE3lnKJxF9tRbrliSktWwrifI57Tkhq1ipN7-N_yg20oPQGGLFysRfpjTVn_W1zS8qTgnvCCOTPaaXkzzkfg5yiiG4mwaDy7bmfrw1UNKGY-NaymEjlFVqBobvm2K4nszNpCypmfBqfhw_MrXNXtfRCRze80tkFShuL1RwC408tQoRCz9vTDfVWl6xnEjk_AVdSsP4",
+      "archivo": "recursos/b0/b0cb383adeddd28fc011-css_CfN2RrVYzueh68yqPuvao7LHHD5C_BsXb-4lbdFOFY0.css"
+    },
+    {
+      "url": "https://www.creatio.com/page/themes/custom/creatio/img/icons/ic-yt.svg",
+      "archivo": "recursos/85/8506172c0f53f2078f2b-ic-yt.svg"
+    },
+    {
+      "url": "https://www.creatio.com/page/themes/custom/creatio/img/icons/ic-tw.svg",
+      "archivo": "recursos/7b/7b5a6321da8be8d4804d-ic-tw.svg"
+    },
+    {
+      "url": "https://www.creatio.com/page/themes/custom/creatio/img/icons/ic-owler.svg",
+      "archivo": "recursos/cf/cfb0c65191cda31e4779-ic-owler.svg"
+    },
+    {
+      "url": "https://www.creatio.com/page/themes/custom/creatio/img/icons/ic-instagram.svg",
+      "archivo": "recursos/c8/c8dc2e3a210c24bd90a7-ic-instagram.svg"
+    },
+    {
+      "url": "https://www.creatio.com/page/themes/custom/creatio/img/icons/lang/sprite_lang.png",
+      "archivo": "recursos/71/719aec1d22e27f1f7917-sprite_lang.png"
+    },
+    {
+      "url": "https://www.creatio.com/page/themes/custom/creatio/img/icons/ic-external-dark.svg",
+      "archivo": "recursos/f5/f51405b504beeeecc63f-ic-external-dark.svg"
+    },
+    {
+      "url": "https://www.creatio.com/page/sites/landings/files/css/css_UysZEd69QpX2of1yQMdawhboiBJaat8CEfUlmgaUAYU.css?delta=1&language=en&theme=creatio_landings&include=eJx9j8FSxSAMRX-ogNOFv9NJ6S2vGqCSPG3f1wtOHReoG0JyTjJzfS5wS7nvxFZxKBWQKZDtgcE3lnKJxF9tRbrliSktWwrifI57Tkhq1ipN7-N_yg20oPQGGLFysRfpjTVn_W1zS8qTgnvCCOTPaaXkzzkfg5yiiG4mwaDy7bmfrw1UNKGY-NaymEjlFVqBobvm2K4nszNpCypmfBqfhw_MrXNXtfRCRze80tkFShuL1RwC408tQoRCz9vTDfVWl6xnEjk_AVdSsP4",
+      "archivo": "recursos/e0/e0401fbd25e1680973d0-css_UysZEd69QpX2of1yQMdawhboiBJaat8CEfUlmgaUAYU.css"
+    },
+    {
+      "url": "https://storage.creatio.com/en/s3fs-public/styles/news_full/public/news/2026-10/960x502_gartner-mq-map-1.png.webp?itok=CgoNzhfs",
+      "archivo": "recursos/ae/ae3cd93b2b66646fd8ff-960x502_gartner-mq-map-1.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/libraries/slick/slick.js?v=1",
+      "archivo": "recursos/9c/9c29c5fa8a47cd63dea7-slick.js"
+    },
+    {
+      "url": "https://www.creatio.com/libraries/jquery.sticky.js?v=1",
+      "archivo": "recursos/e4/e4a3943c645d28b3ddf9-jquery.sticky.js"
+    },
+    {
+      "url": "https://www.creatio.com/libraries/jquery.matchHeight.js?v=1",
+      "archivo": "recursos/be/bee1c45578ba641322a2-jquery.matchHeight.js"
+    },
+    {
+      "url": "https://www.creatio.com/libraries/jquery.select2/dist/js/select2.min.js?v=4.0.13",
+      "archivo": "recursos/90/9030e09a78b235835475-select2.min.js"
+    },
+    {
+      "url": "https://www.creatio.com/modules/contrib/webform/js/webform.element.select2.js?tndbgq",
+      "archivo": "recursos/5a/5a0819d55c6122316d7f-webform.element.select2.js"
+    },
+    {
+      "url": "https://www.creatio.com/libraries/jquery.intl-tel-input/build/js/intlTelInput.min.js?v=17.0.19",
+      "archivo": "recursos/ac/ac08d3b0f13b64e4db37-intlTelInput.min.js"
+    },
+    {
+      "url": "https://www.creatio.com/libraries/jquery.intl-tel-input/build/js/intlTelInput-jquery.min.js?v=17.0.19",
+      "archivo": "recursos/f2/f254f4d7fe50eac4b90b-intlTelInput-jquery.min.js"
+    },
+    {
+      "url": "https://www.creatio.com/modules/contrib/webform/js/webform.element.telephone.js?tndbgq",
+      "archivo": "recursos/51/5139ee90d4a171c5a2e4-webform.element.telephone.js"
+    },
+    {
+      "url": "https://libraries.creatio.com/drupal_fixed_tabs/tabs.js",
+      "archivo": "recursos/31/31289092e55e0ec3740f-tabs.js"
+    },
+    {
+      "url": "https://storage.creatio.com/en/s3fs-public/styles/news_full/public/news/2026-09/960kh502_gartner_crm_sales-2x_0.png.webp?itok=eSoN1fW2",
+      "archivo": "recursos/3a/3ad32a52d8fa01db74fb-960kh502_gartner_crm_sales-2x_0.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/themes/custom/creatio/js/utm-tags.js?v=1.6.3",
+      "archivo": "recursos/87/8786d6b5da139cbf225e-utm-tags.js"
+    },
+    {
+      "url": "https://www.creatio.com/themes/custom/creatio/js/functions.js?v=1.6.3",
+      "archivo": "recursos/b1/b1c5456a5bed8ef34e6b-functions.js"
+    },
+    {
+      "url": "https://www.creatio.com/themes/custom/creatio/js/creatio.js?v=1.6.3",
+      "archivo": "recursos/44/44e6a3a1a73b1bb1a60f-creatio.js"
+    },
+    {
+      "url": "https://www.creatio.com/themes/custom/ts_base/js/lib/jquery.validate.min.js?v=1.6.3",
+      "archivo": "recursos/48/48dec019b03e0789210b-jquery.validate.min.js"
+    },
+    {
+      "url": "https://www.creatio.com/themes/custom/creatio/js/elements/link-anchor.js?v=1.0.0",
+      "archivo": "recursos/51/517b8cbe208f8786a9e3-link-anchor.js"
+    },
+    {
+      "url": "https://www.creatio.com/themes/custom/creatio/js/header.js?v=2.0.1",
+      "archivo": "recursos/2e/2e1ad3ec10cd3cb0519d-header.js"
+    }
+  ],
+  "recursos_externos_omitidos": [
+    "https://cdn.jsdelivr.net/npm/@fancyapps/ui@6.1/dist/fancybox/fancybox.css",
+    "https://cdn.jsdelivr.net/npm/@fancyapps/ui@6.1/dist/fancybox/fancybox.umd.js",
+    "https://cdn.jsdelivr.net/npm/intl-tel-input@18.1.1/build/css/intlTelInput.css",
+    "https://cdn.jsdelivr.net/npm/intl-tel-input@18.1.1/build/js/intlTelInput.min.js",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/00-news-banner-twin@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/00-news-banner-twin@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2024-01/amd-247.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2024-01/banco-247.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2024-01/bsn-sport-600.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2024-01/coca-cola-247.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2024-01/colgate-247.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2024-01/ent-600.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2024-01/herheys-600.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2024-01/metlife-247.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2024-01/otp-bank-600.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2024-01/raiffeisne-bank-600.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2024-01/societe-generale-247.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2024-01/university-of-strathclyde-600.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2024-02/dunapack-600.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2024-09/pittsburghpa.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2025-10/Auchan_600x600_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2025-10/City_of_Boston_600x600_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2025-10/Howdens_600x600.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2025-10/Nasdaq_600x600.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2025-11/banco-int-600.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/image_award/418x246_Buil-In_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/image_award/Tech-Cares-2024.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/image_award/inc-2025.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/customers/customers-menu-title.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/25-country.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-01@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-01@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-02@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-02@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-03@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-03@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-04@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-04@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-05@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-05@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-06@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-06@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-07@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-07@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-08@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-08@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-09@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-09@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-10@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-10@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-11@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-11@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-13@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-13@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-14@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-14@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-15@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-15@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-16@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-16@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-17@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-17@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-19@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-19@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-21@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-21@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-22@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-22@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-23@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-23@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-24@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-24@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-01@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-01@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-02@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-02@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-03@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-03@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-04@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-04@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-05@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-05@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-06@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-06@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-07@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-07@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-08@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-08@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-09@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-09@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-10@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-10@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-11@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-11@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-12@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-12@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-13@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-13@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-14@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-14@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-15@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-15@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-16@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-16@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-17@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-17@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-18@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-18@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-19@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-19@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-20@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-20@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-21@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-21@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-22@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-22@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-23@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-23@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-24@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-24@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-25@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-25@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-26@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-26@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-27@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-27@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partners-text.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/OG-HR-en-en.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/hr-4.6.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/hr-88.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/hr-94.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/hr-insight-en@1x.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/hr-insight-en@2x.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/hr-values@1x.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/hr-values@2x.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/people/01-jenny-beer-2@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/people/01-jenny-beer-2@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/people/03-garrard-brown_1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/people/03-garrard-brown_2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/people/08-nick-halden@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/people/08-nick-halden@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/people/09-mariia-donets@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/people/09-mariia-donets@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/people/10-mike-hryshchenko@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/people/10-mike-hryshchenko@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/people/2025-augustin_1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/people/2025-augustin_2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/people/2025-nigar_1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/people/2025-nigar_2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/people/2025-nuno_1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/people/2025-nuno_2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/people/2025-zack_1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/people/2025-zack_2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/people/I-2632@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/people/I-2632@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/people/I-2687@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/people/I-2687@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/people/hr-gk-foto_1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/careers/people/hr-gk-foto_2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/contacts/01-contact-us-people-2@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/contacts/01-contact-us-people-2@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/contacts/02-contact-us-boston-2@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/contacts/02-contact-us-boston-2@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/contacts/02-contact-us-kyiv-2@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/contacts/02-contact-us-kyiv-2@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/contacts/02-contact-us-london-2-1x-upd.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/contacts/02-contact-us-london-2-2x-upd.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/contacts/02-contact-us-munich_1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/contacts/02-contact-us-munich_2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/contacts/02-contact-us-nicosia-2-1x-upd.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/contacts/02-contact-us-nicosia-2-2x-upd.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/contacts/02-contact-us-pitt-str.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/contacts/02-contact-us-pitt-str2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/contacts/02-contact-us-warsaw@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/contacts/02-contact-us-warsaw@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/contacts/OG-Creatio-Contact.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/front/clients/logos/1-national-logo.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/front/clients/logos/amd-logo.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/front/clients/logos/city-of-boston-logo.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/front/clients/logos/colgate-logo.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/front/clients/logos/e-on-next-logo.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/front/clients/logos/metlife-logo.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/front/clients/logos/nasdaq-logo.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/front/clients/logos/pittsburg-logo.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/front/clients/logos/purplebricks-logo.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/front/clients/logos/stc-group-logo.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/rld/v2/OG-Creatio-get-a-demo.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/rld/v2/get-demo-screen_upd_1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/rld/v2/get-demo-screen_upd_2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/rld/v2/get-demo-twin@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/rld/v2/get-demo-twin@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/styles/customer/public/2024-09/1-united.png",
+    "https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&family=Montserrat:wght@300;400;500;600;700;800&family=Open+Sans:wght@400;600;700&display=swap",
+    "https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyBIAG7iGXCcg03822Gd2z38o5IiFDh_rII",
+    "https://www.googletagmanager.com/ns.html?id=GTM-5FQ8V7"
+  ],
+  "errores": [],
+  "bytes": 5253954
+}

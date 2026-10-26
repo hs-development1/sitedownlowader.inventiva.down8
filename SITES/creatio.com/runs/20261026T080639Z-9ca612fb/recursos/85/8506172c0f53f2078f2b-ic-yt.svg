@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="32" height="32" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="icon_social_youtube" clip-path="url(#clip-path)">
+    <circle id="Ellipse_925" data-name="Ellipse 925" cx="16" cy="16" r="16" fill="#d42428"/>
+    <path id="Path_5305" data-name="Path 5305" d="M136.673,157.7a2.428,2.428,0,0,0-2.427-2.428H122.859a2.428,2.428,0,0,0-2.427,2.428v6.512a2.428,2.428,0,0,0,2.427,2.428h11.387a2.428,2.428,0,0,0,2.427-2.428V157.7Zm-9.745,6v-6.116l4.638,3.058Z" transform="translate(-112.3 -144.788)" fill="#fff"/>
+  </g>
+</svg>
