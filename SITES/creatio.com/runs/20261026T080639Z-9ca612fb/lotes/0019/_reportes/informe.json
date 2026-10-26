@@ -1,0 +1,369 @@
+{
+  "sitio": "https://creatio.com/",
+  "fecha": "2026-10-26T11:55:16.931262+00:00",
+  "paginas": [
+    "https://marketplace.creatio.com/catalog?type=All&category%5B1362%5D=1362",
+    "https://marketplace.creatio.com/app/microsoft-power-bi-desktop-connector-creatio",
+    "https://marketplace.creatio.com/app/velvetel-telephony-creatio",
+    "https://marketplace.creatio.com/app/apolloio-connector-creatio",
+    "https://marketplace.creatio.com/app/zapier-connector-creatio",
+    "https://marketplace.creatio.com/app/pandadoc-document-management-creatio",
+    "https://marketplace.creatio.com/catalog?collections=Essential+for+Sales",
+    "https://marketplace.creatio.com/app/lead-and-opportunity-management",
+    "https://marketplace.creatio.com/app/order-and-contract-management",
+    "https://marketplace.creatio.com/app/syntech-kanban-view-creatio"
+  ],
+  "paginas_guardadas": 10,
+  "recursos_descargados": 80,
+  "fotografias_descargadas": 65,
+  "bytes_fotografias": 44470615,
+  "recursos_pendientes": 32,
+  "presupuesto_recursos_bytes": 110100480,
+  "recursos_bytes": 46751712,
+  "maximo_paginas": 10,
+  "paginas_pendientes": 0,
+  "fichas_inmobiliarias": 0,
+  "limite_alcanzado": false,
+  "modo_navegador": false,
+  "advertencia_navegador": "",
+  "recursos": [
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2024-01/1_0.jpg",
+      "archivo": "recursos/19/19fe8e6ff21590d2ffa3-1_0.jpg"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2024-01/2_0.jpg",
+      "archivo": "recursos/30/306e325ba7e12d200b4d-2_0.jpg"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2024-01/3_0.jpg",
+      "archivo": "recursos/99/99a48f204095181b3cf3-3_0.jpg"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2024-01/4_0.png",
+      "archivo": "recursos/06/063465eab4dcced0bace-4_0.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-07/4_1.png",
+      "archivo": "recursos/06/063465eab4dcced0bace-4_0.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-07/3_0.jpg",
+      "archivo": "recursos/99/99a48f204095181b3cf3-3_0.jpg"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/app-guide/Microsoft%20Power%20BI_connector_1-2-0.zip",
+      "archivo": "recursos/01/01a047296374cf6746d8-Microsoft_Power_BI_connector_1-2-0.zip"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/app-guide/Power%20BI%20Setup%20guide_3.pdf",
+      "archivo": "recursos/e9/e91d464fe1e44898a1a4-Power_BI_Setup_guide_3.pdf"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/css/css_5mGOuWhbCrpNEHFxDSVlU3gXptnqYUrQhxwDPxvy6Tk.css?delta=1&language=en&theme=mp_front&include=eJyFkEESwyAIRS9k4pEyqDQ6RXFA20lP3zSm7a7dwPvwhgWeQHWzDhSNH3xJ9OGMqrCivnPhsO9Y0HrOlQuWpnOuy0W4tGmCWqeIEFD-SA3cDyOypMdOQC9Rh1lYMlB6oCHYuLclJPV8Q9nsfsAzmfcBuxI7OLIiiI8LJHuSI_ZXU0FgFahRbZBegebvZO6ldkdJIwajmzbM4z1NF8Fbwrvas5uRjjpnDp3wCWPqgqk",
+      "archivo": "recursos/ef/ef57412469f95980b554-css_5mGOuWhbCrpNEHFxDSVlU3gXptnqYUrQhxwDPxvy6Tk.css"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/css/css_VdFiswoK2DEpqixzIU43BWCwvlHz5HMGABun1WyeeAs.css?delta=2&language=en&theme=mp_front&include=eJyFkEESwyAIRS9k4pEyqDQ6RXFA20lP3zSm7a7dwPvwhgWeQHWzDhSNH3xJ9OGMqrCivnPhsO9Y0HrOlQuWpnOuy0W4tGmCWqeIEFD-SA3cDyOypMdOQC9Rh1lYMlB6oCHYuLclJPV8Q9nsfsAzmfcBuxI7OLIiiI8LJHuSI_ZXU0FgFahRbZBegebvZO6ldkdJIwajmzbM4z1NF8Fbwrvas5uRjjpnDp3wCWPqgqk",
+      "archivo": "recursos/e0/e0cedba1ab97fdd47e9a-css_VdFiswoK2DEpqixzIU43BWCwvlHz5HMGABun1WyeeAs.css"
+    },
+    {
+      "url": "https://marketplace.creatio.com/themes/contrib/classy/images/icons/application-octet-stream.png",
+      "archivo": "recursos/53/53d147d7284bd4806a49-application-octet-stream.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/themes/contrib/classy/images/icons/package-x-generic.png",
+      "archivo": "recursos/eb/eba2db10fc1491fbc009-package-x-generic.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/css/css_FaZD1AHV7d49tbQRELN7BrJjcwbHP8b9BZ7SoCPKIB4.css?delta=4&language=en&theme=mp_front&include=eJyFkEESwyAIRS9k4pEyqDQ6RXFA20lP3zSm7a7dwPvwhgWeQHWzDhSNH3xJ9OGMqrCivnPhsO9Y0HrOlQuWpnOuy0W4tGmCWqeIEFD-SA3cDyOypMdOQC9Rh1lYMlB6oCHYuLclJPV8Q9nsfsAzmfcBuxI7OLIiiI8LJHuSI_ZXU0FgFahRbZBegebvZO6ldkdJIwajmzbM4z1NF8Fbwrvas5uRjjpnDp3wCWPqgqk",
+      "archivo": "recursos/8b/8b5b68421d60ba18d5b8-css_FaZD1AHV7d49tbQRELN7BrJjcwbHP8b9BZ7SoCPKIB4.css"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-09/1600x800%207.png",
+      "archivo": "recursos/0a/0a62c36f067102a92f94-1600x800_7.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-09/Velvetel%20Telephony%20Creatio%20%281%29.png",
+      "archivo": "recursos/73/733ff5ba15f4f54d73b1-Velvetel_Telephony_Creatio__1.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-09/Velvetel%20Telephony%20Creatio.png",
+      "archivo": "recursos/74/74e6f452bf9da847807e-Velvetel_Telephony_Creatio.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-09/1600x800.png",
+      "archivo": "recursos/de/de4c6c2c2f4ed6012b52-1600x800.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-09/1600x800-1.png",
+      "archivo": "recursos/f5/f59ed843e4f1b1c7b2de-1600x800-1.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-09/1600x800-2.png",
+      "archivo": "recursos/ee/ee2e55c4c1d733784dd8-1600x800-2.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/styles/detailed_logo/public/2025-05/velvetel_logo_upd.png?itok=DtNS7jBe",
+      "archivo": "recursos/4f/4ff62048acb1bd09c290-velvetel_logo_upd.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2025-05/velvetel_logo_upd.png",
+      "archivo": "recursos/11/1115f57a854404e3272a-velvetel_logo_upd.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2025-05/Apollo%20connector%20Highlighted%20screenshots%2001.png",
+      "archivo": "recursos/bb/bb77fa1284d03cda0286-Apollo_connector_Highlighted_screenshots_01.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2025-05/Apollo%20connector%20Highlighted%20screenshots%2002.png",
+      "archivo": "recursos/ee/ee3fc0e6afdf27f35e4e-Apollo_connector_Highlighted_screenshots_02.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2025-05/Apollo%20connector%20Highlighted%20screenshots%2003.png",
+      "archivo": "recursos/26/2672a54bed7b00b095e5-Apollo_connector_Highlighted_screenshots_03.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2025-05/Apollo%2520connector%2520Key%2520Feature%2520screenshots%252002.png",
+      "archivo": "recursos/be/be2c4f1f4158aac9347a-Apollo_20connector_20Key_20Feature_20screenshots_2002.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2025-05/Apollo%2520connector%2520Key%2520Feature%2520screenshots%252003.png",
+      "archivo": "recursos/3a/3ab1ad4b1e905eff5a41-Apollo_20connector_20Key_20Feature_20screenshots_2003.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2025-05/Apollo%2520connector%2520Key%2520Feature%2520screenshots%252001.png",
+      "archivo": "recursos/f8/f84a7d2dcf770e5592f8-Apollo_20connector_20Key_20Feature_20screenshots_2001.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/app-guide/Apollo.io%20connector%20for%20Creatio.pdf",
+      "archivo": "recursos/4a/4ae5b01bac152ccca7c2-Apollo.io_connector_for_Creatio.pdf"
+    },
+    {
+      "url": "https://marketplace.creatio.com/themes/custom/mp_front/images/icons/ic-search-mobile-close.svg",
+      "archivo": "recursos/44/44eb56c1546e36f0d8c8-ic-search-mobile-close.svg"
+    },
+    {
+      "url": "https://marketplace.creatio.com/themes/custom/mp_front/images/icons/ic-head-search.svg",
+      "archivo": "recursos/22/228d59213524fbfcfaed-ic-head-search.svg"
+    },
+    {
+      "url": "https://marketplace.creatio.com/themes/custom/mp_front/images/icons/ic-search-ai.svg",
+      "archivo": "recursos/d9/d9adb98ef149d22028be-ic-search-ai.svg"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/css/css_HsroSkPElJqtPWY3myvcG2Sni33LXO4HOQDF32nOjkY.css?delta=6&language=en&theme=mp_front&include=eJyFkEESwyAIRS9k4pEyqDQ6RXFA20lP3zSm7a7dwPvwhgWeQHWzDhSNH3xJ9OGMqrCivnPhsO9Y0HrOlQuWpnOuy0W4tGmCWqeIEFD-SA3cDyOypMdOQC9Rh1lYMlB6oCHYuLclJPV8Q9nsfsAzmfcBuxI7OLIiiI8LJHuSI_ZXU0FgFahRbZBegebvZO6ldkdJIwajmzbM4z1NF8Fbwrvas5uRjjpnDp3wCWPqgqk",
+      "archivo": "recursos/32/32c6fa763d5189ab8238-css_HsroSkPElJqtPWY3myvcG2Sni33LXO4HOQDF32nOjkY.css"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2025-11/Zapier%20connector%20for%20Creatio%20Highlight%20screenshot%201.png",
+      "archivo": "recursos/56/561ac4792f58ed003f53-Zapier_connector_for_Creatio_Highlight_screenshot_1.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2025-11/Zapier%20connector%20for%20Creatio%20screenshot%201.png",
+      "archivo": "recursos/de/de6713aa858d786ef79a-Zapier_connector_for_Creatio_screenshot_1.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2025-11/Zapier%20connector%20for%20Creatio%20screenshot%202.png",
+      "archivo": "recursos/ab/abad6530736fd12b3cce-Zapier_connector_for_Creatio_screenshot_2.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2025-11/Zapier%2520connector%2520for%2520Creatio%2520Key%2520feature%25201.png",
+      "archivo": "recursos/1e/1ed5c190a4852904a9b1-Zapier_20connector_20for_20Creatio_20Key_20feature_201.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2025-11/Zapier%2520connector%2520for%2520Creatio%2520Key%2520feature%25203.png",
+      "archivo": "recursos/fc/fcc979a18fe854a9254f-Zapier_20connector_20for_20Creatio_20Key_20feature_203.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2025-11/Zapier%2520connector%2520for%2520Creatio%2520Key%2520feature%25202.png",
+      "archivo": "recursos/57/57fce10e15ae6bbd9d95-Zapier_20connector_20for_20Creatio_20Key_20feature_202.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/app-guide/Zapier_setup_guide_v2.pdf",
+      "archivo": "recursos/73/739bbb7294bfc0bfe6e0-Zapier_setup_guide_v2.pdf"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/css/css_HCdtcPW08GVYVmK55-pnZlvj4sFR0-28-LcooSZtzcE.css?delta=7&language=en&theme=mp_front&include=eJyFkEESwyAIRS9k4pEyqDQ6RXFA20lP3zSm7a7dwPvwhgWeQHWzDhSNH3xJ9OGMqrCivnPhsO9Y0HrOlQuWpnOuy0W4tGmCWqeIEFD-SA3cDyOypMdOQC9Rh1lYMlB6oCHYuLclJPV8Q9nsfsAzmfcBuxI7OLIiiI8LJHuSI_ZXU0FgFahRbZBegebvZO6ldkdJIwajmzbM4z1NF8Fbwrvas5uRjjpnDp3wCWPqgqk",
+      "archivo": "recursos/f1/f1fd2e99cdc7eeecf91f-css_HCdtcPW08GVYVmK55-pnZlvj4sFR0-28-LcooSZtzcE.css"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/styles/detailed_logo/public/2025-03/Zapier_logo_listing_new.png?itok=oETH1IEh",
+      "archivo": "recursos/78/780e37cb59205cecff92-Zapier_logo_listing_new.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2025-03/Zapier_logo_listing_new.png",
+      "archivo": "recursos/62/621de7b4e8b39c0c71a8-Zapier_logo_listing_new.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-02/1600x800-1.png",
+      "archivo": "recursos/6c/6cf18ef8e25ff1a20439-1600x800-1.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-02/1600x800-2.png",
+      "archivo": "recursos/6d/6d2435e5dfe929cc2388-1600x800-2.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-04/pandadoc.png",
+      "archivo": "recursos/97/97982db89796fb6cc303-pandadoc.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/styles/detailed_logo/public/2026-02/240x240.png?itok=pdAVp1ku",
+      "archivo": "recursos/f7/f7b64b7fd9ea5d8626fb-240x240.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-02/1600x800.png",
+      "archivo": "recursos/00/00e77c6b3a7682907fcf-1600x800.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-02/240x240.png",
+      "archivo": "recursos/84/845a2458e8e83bcd3196-240x240.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-08/Lead%20and%20Opportunity%20Management%20Highlighted%20screenshots%2001.png",
+      "archivo": "recursos/91/91f7695d556495135e38-Lead_and_Opportunity_Management_Highlighted_screenshots_01.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2025-06/Lead%20and%20Opportunity%20Management%20Highlighted%20screenshots%2002.png",
+      "archivo": "recursos/6f/6f7d76b1fcab66beaad5-Lead_and_Opportunity_Management_Highlighted_screenshots_02.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-08/Lead%2520and%2520Opportunity%2520Management%2520Key%2520Feature%2520screenshots%252018%2520%283%29.png",
+      "archivo": "recursos/b8/b87242a50390a2a66f4d-Lead_20and_20Opportunity_20Management_20Key_20Feature_20screenshots_20.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-08/Lead%2520and%2520Opportunity%2520Management%2520Key%2520Feature%2520screenshots%25205%2520%283%29.png",
+      "archivo": "recursos/11/1109da71ec805257da47-Lead_20and_20Opportunity_20Management_20Key_20Feature_20screenshots_20.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-08/Lead%2520and%2520Opportunity%2520Management%2520Key%2520Feature%2520screenshots%25207%2520%285%29.png",
+      "archivo": "recursos/c5/c5b815d4e9094a44cb34-Lead_20and_20Opportunity_20Management_20Key_20Feature_20screenshots_20.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-08/Lead%2520and%2520Opportunity%2520Management%2520Key%2520Feature%2520screenshots%252017.png",
+      "archivo": "recursos/9b/9bc37fa3bf8fc24eb721-Lead_20and_20Opportunity_20Management_20Key_20Feature_20screenshots_20.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2025-06/Lead%2520and%2520Opportunity%2520Management%2520Key%2520Feature%2520screenshots%252001.png",
+      "archivo": "recursos/22/22dc117c49d2c0b41a26-Lead_20and_20Opportunity_20Management_20Key_20Feature_20screenshots_20.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-08/Lead%2520and%2520Opportunity%2520Management%2520Key%2520Feature%2520screenshots%25206%2520%281%29.png",
+      "archivo": "recursos/da/da219a783022fc0d8b2d-Lead_20and_20Opportunity_20Management_20Key_20Feature_20screenshots_20.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-08/Lead%2520and%2520Opportunity%2520Management%2520Key%2520Feature%2520screenshots%252016.png",
+      "archivo": "recursos/c0/c0438229707771552d73-Lead_20and_20Opportunity_20Management_20Key_20Feature_20screenshots_20.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/styles/detailed_logo/public/2025-05/Marketplace%2520Cover%2520_%2520Lead%2520%2526%2520Opportunity%2520management.png?itok=QEpuOBYs",
+      "archivo": "recursos/20/20bd418dee8157816e79-Marketplace_20Cover_20__20Lead_20_26_20Opportunity_20management.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2025-06/Order%20and%20Contract%20Management%20Highlighted%20screenshots%2001.png",
+      "archivo": "recursos/08/08046ff9a153e588dd45-Order_and_Contract_Management_Highlighted_screenshots_01.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2025-06/Order%20and%20Contract%20Management%20Highlighted%20screenshots%2002.png",
+      "archivo": "recursos/ae/ae0e3af690b91e36cf34-Order_and_Contract_Management_Highlighted_screenshots_02.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2025-06/Order%20and%20Contract%20Management%20Highlighted%20screenshots%2003.png",
+      "archivo": "recursos/a8/a8573c29239d111e2461-Order_and_Contract_Management_Highlighted_screenshots_03.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2025-06/Order%2520and%2520Contract%2520Management%2520Key%2520Feature%252006.png",
+      "archivo": "recursos/0a/0a88c30efa817a04f0ee-Order_20and_20Contract_20Management_20Key_20Feature_2006.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2025-06/Order%2520and%2520Contract%2520Management%2520Key%2520Feature%252005.png",
+      "archivo": "recursos/4b/4bb0b6000369e18e9346-Order_20and_20Contract_20Management_20Key_20Feature_2005.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2025-06/Order%2520and%2520Contract%2520Management%2520Key%2520Feature%252004.png",
+      "archivo": "recursos/4e/4eee157d2e12ab3ddb3c-Order_20and_20Contract_20Management_20Key_20Feature_2004.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2025-06/Order%2520and%2520Contract%2520Management%2520Key%2520Feature%252003.png",
+      "archivo": "recursos/dd/dd7bdd0f191c0212014e-Order_20and_20Contract_20Management_20Key_20Feature_2003.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2025-06/Order%2520and%2520Contract%2520Management%2520Key%2520Feature%252002.png",
+      "archivo": "recursos/f8/f8fc4af6f1bb1a4f0c3c-Order_20and_20Contract_20Management_20Key_20Feature_2002.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2025-06/Order%2520and%2520Contract%2520Management%2520Key%2520Feature%252001.png",
+      "archivo": "recursos/b7/b713d85a035b485686d9-Order_20and_20Contract_20Management_20Key_20Feature_2001.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-01/Order%2520and%2520Contract%2520Management%2520Key%2520Feature%252007.png",
+      "archivo": "recursos/f4/f4a4b02ceda3499c83e0-Order_20and_20Contract_20Management_20Key_20Feature_2007.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-09/352.png",
+      "archivo": "recursos/3c/3c6d1999cfd52d534b3c-352.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-09/354.png",
+      "archivo": "recursos/5a/5acacaffac143f28b5cb-354.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-09/355.png",
+      "archivo": "recursos/c0/c0608d3ac41bf3452b08-355.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-09/356.png",
+      "archivo": "recursos/64/640756190ac4f0a2d311-356.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-09/357.png",
+      "archivo": "recursos/d0/d0df2b88f256c214187b-357.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-09/358.png",
+      "archivo": "recursos/e7/e723682679476df7239a-358.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-09/360.png",
+      "archivo": "recursos/f5/f569de732344f12b46b8-360.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-09/361.png",
+      "archivo": "recursos/ad/adf0ed3afd99d4a0a6d4-361.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-10/355.png",
+      "archivo": "recursos/c0/c0608d3ac41bf3452b08-355.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-10/357.png",
+      "archivo": "recursos/d0/d0df2b88f256c214187b-357.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-10/358.png",
+      "archivo": "recursos/e7/e723682679476df7239a-358.png"
+    },
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-10/361.png",
+      "archivo": "recursos/ad/adf0ed3afd99d4a0a6d4-361.png"
+    }
+  ],
+  "recursos_externos_omitidos": [
+    "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css",
+    "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js",
+    "https://cdn.jsdelivr.net/npm/@statsig/js-client@3/build/statsig-js-client+session-replay+web-analytics.min.js",
+    "https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css",
+    "https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&family=Montserrat:wght@300;400;500;600;700&display=swap",
+    "https://img.youtube.com/vi/3-Qvc1O9yR4/maxres1.jpg",
+    "https://img.youtube.com/vi/AwSkOpi19pE/maxres1.jpg",
+    "https://img.youtube.com/vi/TOhvHhEQEyU/maxres1.jpg",
+    "https://www.googletagmanager.com/ns.html?id=GTM-W9NM5DVT"
+  ],
+  "errores": [
+    {
+      "url": "https://marketplace.creatio.com/sites/marketplace/files/2026-02/1600x800.png",
+      "error": "('Connection broken: IncompleteRead(543427 bytes read, 1430053 more expected)', IncompleteRead(543427 bytes read, 1430053 more expected))"
+    }
+  ],
+  "bytes": 47336666
+}
