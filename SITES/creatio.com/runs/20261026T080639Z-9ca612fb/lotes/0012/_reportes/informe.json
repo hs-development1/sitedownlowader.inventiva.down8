@@ -1,0 +1,168 @@
+{
+  "sitio": "https://creatio.com/",
+  "fecha": "2026-10-26T08:30:02.366592+00:00",
+  "paginas": [
+    "https://academy.creatio.com/creatio-administration-and-configuration-latam-1",
+    "https://academy.creatio.com/guides/dev/development-on-creatio-platform/category/agent-inbox-panel",
+    "https://academy.creatio.com/documents?id=15621",
+    "https://academy.creatio.com/documents?id=2772",
+    "https://academy.creatio.com/updates-and-releases",
+    "https://academy.creatio.com/guides/creatio-apps/category/overview",
+    "https://academy.creatio.com/guides/no-code-customization/category/customization-tools",
+    "https://academy.creatio.com/guides/ai-studio/creatio-ai-studio-overview",
+    "https://academy.creatio.com/guides/ai-development/creatio-ai-toolkit-overview",
+    "https://academy.creatio.com/guides/dev/development-on-creatio-platform/category/getting-started"
+  ],
+  "paginas_guardadas": 10,
+  "recursos_descargados": 31,
+  "fotografias_descargadas": 9,
+  "bytes_fotografias": 414864,
+  "recursos_pendientes": 16,
+  "presupuesto_recursos_bytes": 110100480,
+  "recursos_bytes": 4343501,
+  "maximo_paginas": 10,
+  "paginas_pendientes": 0,
+  "fichas_inmobiliarias": 0,
+  "limite_alcanzado": false,
+  "modo_navegador": false,
+  "advertencia_navegador": "",
+  "recursos": [
+    {
+      "url": "https://academy.creatio.com/themes/custom/creatio/images/icons/creatio.svg",
+      "archivo": "recursos/d8/d8d0797ffd4e4c39dc42-creatio.svg"
+    },
+    {
+      "url": "https://academy.creatio.com/modules/contrib/jquery_once/lib/jquery_3.7.1_jquery.min.js?v=3.7.1",
+      "archivo": "recursos/9e/9e153dd0f9d77ac27947-jquery_3.7.1_jquery.min.js"
+    },
+    {
+      "url": "https://academy.creatio.com/core/assets/vendor/once/once.min.js?v=1.0.1",
+      "archivo": "recursos/44/4487e0550dd3765b64a1-once.min.js"
+    },
+    {
+      "url": "https://academy.creatio.com/modules/contrib/jquery_once/lib/jquery-once-2.2.3/jquery.once.min.js?v=2.2.3",
+      "archivo": "recursos/ba/bae756feef0c120d0a5b-jquery.once.min.js"
+    },
+    {
+      "url": "https://academy.creatio.com/core/misc/drupalSettingsLoader.js?v=10.6.18",
+      "archivo": "recursos/71/71dac2b6c5342a4e3d45-drupalSettingsLoader.js"
+    },
+    {
+      "url": "https://academy.creatio.com/core/misc/drupal.js?v=10.6.18",
+      "archivo": "recursos/44/4448c75ad6de6bbf6346-drupal.js"
+    },
+    {
+      "url": "https://academy.creatio.com/core/misc/drupal.init.js?v=10.6.18",
+      "archivo": "recursos/e7/e70400ebce6c6cfba986-drupal.init.js"
+    },
+    {
+      "url": "https://libraries.creatio.com/ts_country/index.js?v=1.0",
+      "archivo": "recursos/e1/e173cdec50e97fd11d6a-index.js"
+    },
+    {
+      "url": "https://academy.creatio.com/core/assets/vendor/tabbable/index.umd.min.js?v=6.3.0",
+      "archivo": "recursos/bb/bb53a056c791819139ef-index.umd.min.js"
+    },
+    {
+      "url": "https://academy.creatio.com/core/misc/progress.js?v=10.6.18",
+      "archivo": "recursos/44/4456d74d10b0476fdf33-progress.js"
+    },
+    {
+      "url": "https://academy.creatio.com/guides/dev/img/favicon.ico",
+      "archivo": "recursos/a4/a4530f1ccd7be240330e-favicon.ico"
+    },
+    {
+      "url": "https://academy.creatio.com/guides/dev/assets/css/styles.23c9db87.css",
+      "archivo": "recursos/60/605e07987d03c8d3b313-styles.23c9db87.css"
+    },
+    {
+      "url": "https://academy.creatio.com/guides/dev/assets/js/runtime~main.6494dfac.js",
+      "archivo": "recursos/05/05c09558e84066edca3d-runtime_main.6494dfac.js"
+    },
+    {
+      "url": "https://academy.creatio.com/guides/dev/assets/js/main.a7584fd0.js",
+      "archivo": "recursos/c3/c38344f8826f9c4edc1a-main.a7584fd0.js"
+    },
+    {
+      "url": "https://academy.creatio.com/guides/dev/img/logo-white.svg",
+      "archivo": "recursos/a8/a81453c2b5abefeb59f1-logo-white.svg"
+    },
+    {
+      "url": "https://academy.creatio.com/guides/dev/img/logo.svg",
+      "archivo": "recursos/dd/ddb84563e680be2b8d41-logo.svg"
+    },
+    {
+      "url": "https://academy.creatio.com/guides/dev/img/creatio.svg",
+      "archivo": "recursos/75/7565c833cdab707dfeae-creatio.svg"
+    },
+    {
+      "url": "https://academy.creatio.com/guides/dev/img/OG-Creatio-Docs.jpg",
+      "archivo": "recursos/f0/f02e4dd4717fa9c66ea0-OG-Creatio-Docs.jpg"
+    },
+    {
+      "url": "https://storage.creatio.com/ac-en/s3fs-public/documentation/sdk/en/BPMonlineWebSDK/Screenshots/icons/btn_system_designer_8_shell.png",
+      "archivo": "recursos/6f/6fdacea8f3735079fc97-btn_system_designer_8_shell.png"
+    },
+    {
+      "url": "https://storage.creatio.com/ac-en/s3fs-public/documentation/sdk/en/BPMonlineWebSDK/Screenshots/icons/8.2/btn_system_designer.png",
+      "archivo": "recursos/a2/a286e4ed4c46dd6f0513-btn_system_designer.png"
+    },
+    {
+      "url": "https://storage.creatio.com/ac-en/s3fs-public/documentation/sdk/en/BPMonlineWebSDK/Screenshots/icons/8.2/btn_add.png",
+      "archivo": "recursos/e9/e9bb2cb46eab0a8a7a24-btn_add.png"
+    },
+    {
+      "url": "https://academy.creatio.com/themes/custom/creatio/css/pages/updates-and-releases.css?tnb85q",
+      "archivo": "recursos/76/760317835c5b6b204762-updates-and-releases.css"
+    },
+    {
+      "url": "https://academy.creatio.com/core/assets/vendor/loadjs/loadjs.min.js?v=4.3.0",
+      "archivo": "recursos/51/511df71fc9e69b29ee87-loadjs.min.js"
+    },
+    {
+      "url": "https://academy.creatio.com/core/misc/debounce.js?v=10.6.18",
+      "archivo": "recursos/f8/f83433e8687eb7d939dd-debounce.js"
+    },
+    {
+      "url": "https://academy.creatio.com/core/misc/announce.js?v=10.6.18",
+      "archivo": "recursos/cd/cda6cee1d33df468b313-announce.js"
+    },
+    {
+      "url": "https://academy.creatio.com/core/misc/message.js?v=10.6.18",
+      "archivo": "recursos/3e/3e8868a1eb6ecc800561-message.js"
+    },
+    {
+      "url": "https://academy.creatio.com/core/misc/ajax.js?v=10.6.18",
+      "archivo": "recursos/a1/a1228f4a4b3bb49af838-ajax.js"
+    },
+    {
+      "url": "https://academy.creatio.com/themes/contrib/aristotle/src/js/lib/bootstrap.bundle.js?v=10.6.18",
+      "archivo": "recursos/8f/8fc2be3e8bfbcacf6bfa-bootstrap.bundle.js"
+    },
+    {
+      "url": "https://academy.creatio.com/themes/contrib/aristotle/src/js/lib/bootstrap-select.min.js?v=10.6.18",
+      "archivo": "recursos/a2/a23c56621d26e9215c5f-bootstrap-select.min.js"
+    },
+    {
+      "url": "https://academy.creatio.com/themes/contrib/aristotle/src/js/lib/popper.min.js?v=10.6.18",
+      "archivo": "recursos/5a/5afbed37160eb1c700b8-popper.min.js"
+    },
+    {
+      "url": "https://academy.creatio.com/themes/contrib/aristotle/dist/main.js?v=10.6.18",
+      "archivo": "recursos/d9/d99a3e787b963c72dda8-main.js"
+    }
+  ],
+  "recursos_externos_omitidos": [
+    "https://d3a7ykdi65m4cy.cloudfront.net/ac-en/s3fs-public/images/Overview/creatio_ai_platform/scr_channels.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/ac-en/s3fs-public/images/Overview/creatio_ai_platform/scr_code_agent.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/ac-en/s3fs-public/images/Overview/creatio_ai_platform/scr_governance.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/ac-en/s3fs-public/images/Overview/creatio_ai_platform/scr_operations_center.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/ac-en/s3fs-public/images/Overview/creatio_ai_platform/scr_prompt_agent.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/ac-en/s3fs-public/images/Overview/creatio_ai_platform/scr_workflow_agent.png",
+    "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;0,700;0,800;1,400;1,600&display=swap",
+    "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&family=Open+Sans:wght@400;500;600&display=swap",
+    "https://www.googletagmanager.com/ns.html?id=GTM-5C6KM9TP"
+  ],
+  "errores": [],
+  "bytes": 4948778
+}

@@ -1,0 +1,399 @@
+.updates_releases {
+  --ur-header-pt: 32px;
+  --ur-title-fs: 40px;
+  --ur-title-mb: 20px;
+  --ur-content-pt: 58px;
+  --ur-content-pb: 90px;
+  --ur-item-mt: 20px;
+  --ur-date-fs: 13px;
+  --ur-date-clr: #757575;
+  --ur-date-fw: 500;
+  --ur-date-grid-gap: 10px;
+  --ur-date-hover-trnslt: calc(-50% + (var(--ur-date-grid-gap) / 2));
+  --ur-date-hover-status-opct: 0;
+  --ur-date-gap: 14px;
+  --ur-line-w: 1px;
+  --ur-line-gap: 32px;
+  --ur-point: 8px;
+  --ur-point-clr: #B9B9B9;
+  --ur-point-month: calc(var(--ur-point) * 2);
+  --ur-point-gap: 12px;
+  --ur-month-gap-t: 30px;
+  --ur-month-gap-b: 24px;
+  --ur-month-fs: 18px;
+  --ur-category-pd-y: 3.5px;
+  --ur-category-pd-x: 8px;
+  --ur-category-fs: 13px;
+  --ur-category-br: 2px;
+  --ur-news-br: 12px;
+  --ur-news-bw: 1px;
+  --ur-news-b: var(--ur-news-bw) solid #0000001A;
+  --ur-news-pd-x: 24px;
+  --ur-news-pd-y: 12px;
+  --ur-news-text-fs: 15px;
+  --ur-news-text-lh: 1.6;
+  --ur-news-text-clr: #0d2e4e;
+  font-family: "Montserrat", serif;
+}
+.updates_releases-header {
+  padding-top: var(--ur-header-pt);
+  text-align: center;
+}
+.updates_releases-title {
+  margin-bottom: var(--ur-title-mb);
+  font-size: var(--ur-title-fs);
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0;
+  text-transform: unset;
+  color: #0d2e4e;
+}
+.updates_releases-title span {
+  color: #ff4013;
+}
+.updates_releases-desc {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.4;
+  color: #0d2e4e;
+}
+.updates_releases-content {
+  margin: var(--ur-content-pt) 0 var(--ur-content-pb) 0;
+  padding-left: calc(var(--ur-point-month) + var(--ur-point-gap));
+  position: relative;
+}
+@media screen and (min-width: 992px) {
+  .updates_releases-content {
+    max-width: 944px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0;
+  }
+}
+.updates_releases-item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  z-index: 2;
+}
+.updates_releases-item__month {
+  margin-bottom: var(--ur-month-gap-b);
+}
+.updates_releases-item__month__not_first {
+  margin-top: var(--ur-month-gap-t);
+}
+.updates_releases-item__month .updates_releases-item-date {
+  display: none;
+}
+@media screen and (max-width: 991px) {
+  .updates_releases-item__news + .updates_releases-item__news {
+    margin-top: var(--ur-item-mt);
+  }
+}
+.updates_releases-item__last_item {
+  z-index: 1;
+}
+.updates_releases-item__last_item .updates_releases-item-point-bullet:after {
+  content: "";
+  width: var(--ur-line-w);
+  height: var(--ur-content-h, 100vh);
+  position: absolute;
+  left: 50%;
+  bottom: 50%;
+  transform: translateX(-50%);
+  background: rgba(0, 0, 0, 0.1019607843);
+}
+.updates_releases-item-date {
+  position: relative;
+  cursor: default;
+}
+.updates_releases-item-date-text {
+  font-size: var(--ur-date-fs);
+  font-weight: var(--ur-date-fw);
+  line-height: 2;
+  color: var(--ur-date-clr);
+  white-space: nowrap;
+}
+.updates_releases-item-date-text__invisible {
+  visibility: hidden;
+}
+.updates_releases-item-date-text__update {
+  color: #0058EF;
+}
+.updates_releases-item-date-text__new {
+  color: #ff4013;
+}
+.updates_releases-item-date-content {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.updates_releases-item-date-hover-status {
+  display: none;
+}
+.updates_releases-item-point {
+  position: relative;
+}
+.updates_releases-item-point-bullet {
+  width: var(--ur-point);
+  height: var(--ur-point);
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translate(calc((var(--ur-point-gap) + (var(--ur-point-month) - var(--ur-point)) / 2 + var(--ur-point)) * -1), -50%);
+  pointer-events: none;
+}
+.updates_releases-item-point-bullet:before {
+  content: "";
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: var(--ur-point-clr);
+  border-radius: 100%;
+  z-index: 2;
+}
+.updates_releases-item-point-bullet:after {
+  z-index: 1;
+}
+.updates_releases-item-point-bullet__month:before, .updates_releases-item-point-bullet__new:before {
+  background: #ff4013;
+}
+.updates_releases-item-point-bullet__month {
+  width: var(--ur-point-month);
+  height: var(--ur-point-month);
+  transform: translate(calc((var(--ur-point-gap) + var(--ur-point-month)) * -1), -50%);
+}
+@media screen and (min-width: 992px) {
+  .updates_releases-item-point-bullet__month {
+    right: calc(100% + var(--ur-line-gap) + var(--ur-line-w) / 2);
+    left: unset;
+    transform: translate(50%, -50%);
+  }
+}
+@media screen and (min-width: 992px) {
+  .updates_releases-item-point-bullet__news {
+    left: calc(100% + var(--ur-date-gap) + var(--ur-line-w) / 2);
+    transform: translate(-50%, -50%);
+  }
+}
+@media screen and (min-width: 992px) {
+  .updates_releases-item {
+    flex-direction: row;
+  }
+  .updates_releases-item__news_mt {
+    margin-top: var(--ur-item-mt);
+  }
+  .updates_releases-item__month .updates_releases-item-date {
+    display: block;
+  }
+  .updates_releases-item-date {
+    margin-right: calc(var(--ur-date-gap) + var(--ur-line-w) + var(--ur-line-gap));
+  }
+  .updates_releases-item-date__for_news {
+    height: calc(var(--ur-news-bw) * 2 + var(--ur-news-pd-y) * 2 + var(--ur-news-text-fs) * var(--ur-news-text-lh));
+  }
+  .updates_releases-item-date-text {
+    line-height: 1;
+    text-align: right;
+  }
+  .updates_releases-item-date-text__value {
+    position: absolute;
+    right: 0;
+  }
+  .updates_releases-item-date-hoverarea {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 10;
+  }
+  .updates_releases-item-date-hoverarea:hover + .updates_releases-item-date-content {
+    --ur-date-hover-trnslt: -100%;
+    --ur-date-hover-status-opct: 1;
+  }
+  .updates_releases-item-date-content {
+    width: 100vw;
+    overflow: hidden;
+  }
+  .updates_releases-item-date-hover {
+    width: max-content;
+    height: 100%;
+    position: absolute;
+    left: 100%;
+    transform: translateX(var(--ur-date-hover-trnslt));
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-content: center;
+    grid-gap: var(--ur-date-grid-gap);
+    transition: transform 0.3s;
+  }
+  .updates_releases-item-date-hover-date {
+    position: relative;
+  }
+  .updates_releases-item-date-hover-status {
+    display: block;
+    opacity: var(--ur-date-hover-status-opct);
+    transition: opacity 0.3s;
+  }
+}
+.updates_releases-statuses {
+  display: flex;
+  column-gap: calc(var(--ur-date-fs) * 1.5);
+}
+.updates_releases-statuses-item {
+  display: flex;
+  align-items: center;
+  font-size: var(--ur-date-fs);
+  font-weight: var(--ur-date-fw);
+  color: var(--ur-date-clr);
+}
+.updates_releases-statuses-item:before {
+  content: "";
+  flex: 0 0 6px;
+  width: 6px;
+  height: 6px;
+  margin-right: calc(var(--ur-date-fs) / 3);
+  display: block;
+  border-radius: 100%;
+}
+.updates_releases-statuses-item__new:before {
+  background: #ff4013;
+}
+.updates_releases-statuses-item__upd:before {
+  background: var(--ur-point-clr);
+}
+@media screen and (min-width: 992px) {
+  .updates_releases-statuses {
+    display: none;
+  }
+}
+.updates_releases-month {
+  display: flex;
+  justify-content: space-between;
+}
+.updates_releases-month-name {
+  font-size: var(--ur-month-fs);
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: 0;
+  color: #0d2e4e;
+}
+.updates_releases-news {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  border: var(--ur-news-b);
+  border-radius: var(--ur-news-br);
+}
+.updates_releases-news:hover {
+  --ur-news-text-clr: #004FD6 ;
+}
+.updates_releases-news-body {
+  padding: var(--ur-news-pd-y) var(--ur-news-pd-x);
+  display: flex;
+  flex-direction: column-reverse;
+  row-gap: calc(var(--ur-news-pd-y) / 3 * 2);
+  position: relative;
+}
+.updates_releases-news-content {
+  flex-grow: 1;
+  position: relative;
+}
+.updates_releases-news-text {
+  width: calc(100% - var(--ur-news-pd-y));
+  font-size: var(--ur-news-text-fs);
+  font-weight: 500;
+  line-height: var(--ur-news-text-lh);
+  letter-spacing: 0;
+  color: var(--ur-news-text-clr);
+  transition: color 0.3s;
+}
+.updates_releases-news-categories {
+  height: calc(var(--ur-category-pd-y) * 2 + var(--ur-category-fs));
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+.updates_releases-news-image {
+  border-top: var(--ur-news-b);
+}
+.updates_releases-news-image img {
+  width: 100%;
+  border-radius: 0 0 var(--ur-news-br) var(--ur-news-br);
+}
+@media screen and (min-width: 992px) {
+  .updates_releases-news {
+    border-radius: 0;
+    border-top-width: 0;
+  }
+  .updates_releases-news__first_child, .updates_releases-news__mt {
+    border-top-width: 1px;
+    border-top-left-radius: var(--ur-news-br);
+    border-top-right-radius: var(--ur-news-br);
+  }
+  .updates_releases-news__last_news, .updates_releases-news__imaged {
+    border-bottom-left-radius: var(--ur-news-br);
+    border-bottom-right-radius: var(--ur-news-br);
+  }
+  .updates_releases-news-body {
+    flex-direction: row;
+    align-items: center;
+  }
+  .updates_releases-news-content {
+    height: calc(var(--ur-news-text-fs) * var(--ur-news-text-lh));
+  }
+  .updates_releases-news-text {
+    position: absolute;
+    left: 0;
+    top: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}
+.updates_releases-category {
+  padding: var(--ur-category-pd-y) var(--ur-category-pd-x);
+  font-size: var(--ur-category-fs);
+  font-weight: 500;
+  line-height: 1;
+  border-radius: var(--ur-category-br);
+  text-transform: uppercase;
+}
+.updates_releases-category__theme-grn {
+  background: #CAF2DB;
+  color: #00642A;
+}
+.updates_releases-category__theme-red {
+  background: #FFD9D0;
+  color: #80200A;
+}
+.updates_releases-category__theme-blue {
+  background: #CCE9FB;
+  color: #004975;
+}
+.updates_releases-category__theme-orng {
+  background: #FDE5CA;
+  color: #804400;
+}
+.updates_releases-category__theme-pink {
+  background: #FED6E5;
+  color: #7D1840;
+}
+.updates_releases-category__invisible {
+  visibility: hidden;
+}
+.updates_releases-category__value {
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
